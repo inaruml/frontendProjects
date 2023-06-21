@@ -1,3 +1,20 @@
+# Project no. 1 
+
+Simple introduction to React 
+
+<img width="1437" alt="image" src="https://github.com/inaruml/frontendProjects/assets/54745005/106e5506-86b2-4e3e-b061-14a921cbb861">
+
+
+
+
+
+
+
+
+
+
+
+
 # Development and Usage
 
 See following guidelines:
